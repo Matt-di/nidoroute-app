@@ -40,6 +40,11 @@ ios/Runner/GoogleService-Info.plist
 macos/Runner/GoogleService-Info.plist
 lib/firebase_options.dart
 
+# Environment files (sensitive)
+.env
+.env.local
+.env.production
+
 # Setup documentation (should be in docs folder)
 FIREBASE_SETUP.md
 GOOGLE_MAPS_SETUP.md
