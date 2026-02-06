@@ -1,0 +1,4 @@
+enum TrackingRole {
+  driver,
+  guardian,
+}
